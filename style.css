@@ -9,8 +9,8 @@ html, body {
   bottom: 0;
   left: 0;
   right: 0;
-
-  /* Prevent user selection. */
+  
+  /* Preve user selection. */
   user-select: none;
   touch-callout: none;
   -webkit-touch-callout: none;
